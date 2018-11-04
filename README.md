@@ -1,2 +1,2 @@
 # Minesweeper
-![](minesweeper.gof)
+![](minesweeper.gif)
